@@ -1,4 +1,4 @@
-# 0x-hardhat
+# treasury - hardhat
 
 1. Install package 
     ```
